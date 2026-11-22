@@ -1,0 +1,9 @@
+step,amount
+Naive gross (raw SUM of item rows),9679900.0
+- Duplicate item rows,-150620.0
+- Invalid / orphan lines,-21970.0
+- Cancelled orders,-784920.0
+- In-transit orders (not yet recognised),-428980.0
+- Discounts / campaigns,-633597.0
+- Refunds,-882984.34
+= Reconciled net revenue,6776828.66

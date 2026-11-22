@@ -1,0 +1,314 @@
+entity,record_id,issue_type,severity,detail,action_taken
+customers,C0006,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0009,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0044,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0048,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0098,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0114,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0124,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0125,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0142,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0151,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0157,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0189,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0208,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0209,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0230,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0243,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+customers,C0244,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0251,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0252,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0265,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0285,inconsistent_label,Low,segment 'vip ',standardised to 'VIP'
+customers,C0298,inconsistent_label,Low,segment 'regular',standardised to 'Regular'
+product_costs,P011,missing_cost,Medium,unit_cost is null,estimated 1250.94 from category median cost ratio
+product_costs,P035,missing_cost,Medium,unit_cost is null,estimated 1912.16 from category median cost ratio
+orders,O01483,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01961,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00448,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01729,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01683,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00559,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00809,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00882,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00859,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00655,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00875,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00632,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00443,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00675,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01978,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01132,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00578,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01150,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01927,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01211,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00376,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01822,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00731,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00232,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00276,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00719,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00614,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01316,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00057,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01679,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01497,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01283,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01469,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01265,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00368,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00574,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O00869,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01700,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01637,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01814,duplicate_transaction,High,order_id repeated,kept first occurrence
+orders,O01928,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01316,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01599,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01133,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01320,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01617,inconsistent_status_label,Low,'CANCELLED',standardised to 'Cancelled'
+orders,O01197,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01534,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00204,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00501,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01824,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00004,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01241,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00587,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00082,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00417,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01898,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01374,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00888,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00931,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00710,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01856,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01432,inconsistent_status_label,Low,'RETURNED',standardised to 'Returned'
+orders,O00598,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00077,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00601,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00983,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O02000,inconsistent_status_label,Low,'RETURNED',standardised to 'Returned'
+orders,O00378,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01865,inconsistent_status_label,Low,'CANCELLED',standardised to 'Cancelled'
+orders,O01920,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00237,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01806,inconsistent_status_label,Low,'SHIPPED',standardised to 'Shipped'
+orders,O01440,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00379,inconsistent_status_label,Low,'RETURNED',standardised to 'Returned'
+orders,O00543,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00516,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01313,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00611,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01294,inconsistent_status_label,Low,'CANCELLED',standardised to 'Cancelled'
+orders,O01714,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00455,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01301,inconsistent_status_label,Low,'RETURNED',standardised to 'Returned'
+orders,O01725,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00359,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01882,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00375,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01225,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01435,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01976,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00914,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00957,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00264,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01786,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01486,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00313,inconsistent_status_label,Low,'RETURNED',standardised to 'Returned'
+orders,O01640,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00678,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00086,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00104,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01286,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00926,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01854,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00574,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01869,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01809,inconsistent_status_label,Low,'SHIPPED',standardised to 'Shipped'
+orders,O01307,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00816,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00740,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01555,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01813,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00265,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01077,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01155,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00190,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O01996,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01530,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00012,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00762,inconsistent_status_label,Low,'Complete',standardised to 'Delivered'
+orders,O00506,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O00920,inconsistent_status_label,Low,'CANCELLED',standardised to 'Cancelled'
+orders,O01222,inconsistent_status_label,Low,'DELIVERED',standardised to 'Delivered'
+orders,O01954,date_format,Low,'15/07/2026',parsed as dd/mm/yyyy
+orders,O00434,date_format,Low,'10/10/2026',parsed as dd/mm/yyyy
+orders,O00361,date_format,Low,'02/03/2026',parsed as dd/mm/yyyy
+orders,O01048,date_format,Low,'02/08/2026',parsed as dd/mm/yyyy
+orders,O00443,date_format,Low,'09/02/2026',parsed as dd/mm/yyyy
+orders,O00343,date_format,Low,'14/04/2026',parsed as dd/mm/yyyy
+orders,O01007,date_format,Low,'01/02/2026',parsed as dd/mm/yyyy
+orders,O01268,date_format,Low,'30/04/2026',parsed as dd/mm/yyyy
+orders,O01897,date_format,Low,'08/06/2026',parsed as dd/mm/yyyy
+orders,O00603,date_format,Low,'30/07/2026',parsed as dd/mm/yyyy
+orders,O00302,date_format,Low,'12/02/2026',parsed as dd/mm/yyyy
+orders,O00655,date_format,Low,'14/06/2026',parsed as dd/mm/yyyy
+orders,O00401,date_format,Low,'16/02/2026',parsed as dd/mm/yyyy
+orders,O00543,date_format,Low,'10/10/2026',parsed as dd/mm/yyyy
+orders,O00370,date_format,Low,'26/05/2026',parsed as dd/mm/yyyy
+orders,O00826,date_format,Low,'24/03/2026',parsed as dd/mm/yyyy
+orders,O01833,date_format,Low,'15/03/2026',parsed as dd/mm/yyyy
+orders,O01538,date_format,Low,'06/05/2026',parsed as dd/mm/yyyy
+orders,O00470,date_format,Low,'27/07/2026',parsed as dd/mm/yyyy
+orders,O01300,date_format,Low,'04/02/2026',parsed as dd/mm/yyyy
+orders,O00953,date_format,Low,'29/06/2026',parsed as dd/mm/yyyy
+orders,O00892,date_format,Low,'24/06/2026',parsed as dd/mm/yyyy
+orders,O01509,date_format,Low,'23/05/2026',parsed as dd/mm/yyyy
+orders,O00643,date_format,Low,'04/01/2026',parsed as dd/mm/yyyy
+orders,O01588,date_format,Low,'28/10/2026',parsed as dd/mm/yyyy
+orders,O01465,date_format,Low,'08/11/2026',parsed as dd/mm/yyyy
+orders,O00405,date_format,Low,'30/10/2026',parsed as dd/mm/yyyy
+orders,O00251,date_format,Low,'11/05/2026',parsed as dd/mm/yyyy
+orders,O01176,date_format,Low,'12/01/2026',parsed as dd/mm/yyyy
+orders,O00269,date_format,Low,'16/04/2026',parsed as dd/mm/yyyy
+orders,O00727,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O00919,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O01984,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O01755,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O01708,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O00034,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O00165,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O01306,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O01339,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O01974,missing_date,Medium,order_date null,kept; excluded from monthly trend
+orders,O01470,orphan_customer,Medium,customer C9999 not in profiles,segment set to 'Unknown'
+orders,O00998,orphan_customer,Medium,customer C9999 not in profiles,segment set to 'Unknown'
+orders,O00084,orphan_customer,Medium,customer C9999 not in profiles,segment set to 'Unknown'
+orders,O01875,orphan_customer,Medium,customer C9999 not in profiles,segment set to 'Unknown'
+orders,O01722,orphan_customer,Medium,customer C9999 not in profiles,segment set to 'Unknown'
+orders,O01095,orphan_customer,Medium,customer C9999 not in profiles,segment set to 'Unknown'
+order_items,I001380,duplicate_transaction,High,item repeated in order O00783,kept first occurrence
+order_items,I002059,duplicate_transaction,High,item repeated in order O01160,kept first occurrence
+order_items,I000335,duplicate_transaction,High,item repeated in order O00187,kept first occurrence
+order_items,I000019,duplicate_transaction,High,item repeated in order O00010,kept first occurrence
+order_items,I000672,duplicate_transaction,High,item repeated in order O00376,kept first occurrence
+order_items,I000144,duplicate_transaction,High,item repeated in order O00081,kept first occurrence
+order_items,I000763,duplicate_transaction,High,item repeated in order O00429,kept first occurrence
+order_items,I002052,duplicate_transaction,High,item repeated in order O01157,kept first occurrence
+order_items,I002635,duplicate_transaction,High,item repeated in order O01499,kept first occurrence
+order_items,I003242,duplicate_transaction,High,item repeated in order O01857,kept first occurrence
+order_items,I001976,duplicate_transaction,High,item repeated in order O01114,kept first occurrence
+order_items,I000186,duplicate_transaction,High,item repeated in order O00106,kept first occurrence
+order_items,I000476,duplicate_transaction,High,item repeated in order O00261,kept first occurrence
+order_items,I001369,duplicate_transaction,High,item repeated in order O00777,kept first occurrence
+order_items,I002362,duplicate_transaction,High,item repeated in order O01331,kept first occurrence
+order_items,I002381,duplicate_transaction,High,item repeated in order O01342,kept first occurrence
+order_items,I001177,duplicate_transaction,High,item repeated in order O00663,kept first occurrence
+order_items,I002518,duplicate_transaction,High,item repeated in order O01426,kept first occurrence
+order_items,I000922,duplicate_transaction,High,item repeated in order O00520,kept first occurrence
+order_items,I002178,duplicate_transaction,High,item repeated in order O01231,kept first occurrence
+order_items,I002645,duplicate_transaction,High,item repeated in order O01505,kept first occurrence
+order_items,I002592,duplicate_transaction,High,item repeated in order O01472,kept first occurrence
+order_items,I001102,duplicate_transaction,High,item repeated in order O00623,kept first occurrence
+order_items,I001765,duplicate_transaction,High,item repeated in order O00998,kept first occurrence
+order_items,I000094,duplicate_transaction,High,item repeated in order O00051,kept first occurrence
+order_items,I002883,duplicate_transaction,High,item repeated in order O01648,kept first occurrence
+order_items,I002583,duplicate_transaction,High,item repeated in order O01468,kept first occurrence
+order_items,I003407,duplicate_transaction,High,item repeated in order O01959,kept first occurrence
+order_items,I002773,duplicate_transaction,High,item repeated in order O01586,kept first occurrence
+order_items,I003065,duplicate_transaction,High,item repeated in order O01754,kept first occurrence
+order_items,I001661,duplicate_transaction,High,item repeated in order O00945,kept first occurrence
+order_items,I000558,duplicate_transaction,High,item repeated in order O00306,kept first occurrence
+order_items,I001023,duplicate_transaction,High,item repeated in order O00575,kept first occurrence
+order_items,I000521,duplicate_transaction,High,item repeated in order O00286,kept first occurrence
+order_items,I002350,duplicate_transaction,High,item repeated in order O01325,kept first occurrence
+order_items,I001505,duplicate_transaction,High,item repeated in order O00858,kept first occurrence
+order_items,I001945,duplicate_transaction,High,item repeated in order O01098,kept first occurrence
+order_items,I002912,duplicate_transaction,High,item repeated in order O01662,kept first occurrence
+order_items,I001849,duplicate_transaction,High,item repeated in order O01045,kept first occurrence
+order_items,I003061,duplicate_transaction,High,item repeated in order O01752,kept first occurrence
+order_items,I000063,duplicate_transaction,High,item repeated in order O00031,kept first occurrence
+order_items,I003125,duplicate_transaction,High,item repeated in order O01790,kept first occurrence
+order_items,I002399,duplicate_transaction,High,item repeated in order O01353,kept first occurrence
+order_items,I003312,duplicate_transaction,High,item repeated in order O01901,kept first occurrence
+order_items,I001289,duplicate_transaction,High,item repeated in order O00733,kept first occurrence
+order_items,I002982,duplicate_transaction,High,item repeated in order O01702,kept first occurrence
+order_items,I003272,duplicate_transaction,High,item repeated in order O01877,kept first occurrence
+order_items,I001565,duplicate_transaction,High,item repeated in order O00894,kept first occurrence
+order_items,I000788,duplicate_transaction,High,item repeated in order O00442,kept first occurrence
+order_items,I002134,duplicate_transaction,High,item repeated in order O01205,kept first occurrence
+order_items,I000750,duplicate_transaction,High,item repeated in order O00418,kept first occurrence
+order_items,I000111,duplicate_transaction,High,item repeated in order O00058,kept first occurrence
+order_items,I002289,duplicate_transaction,High,item repeated in order O01291,kept first occurrence
+order_items,I000588,duplicate_transaction,High,item repeated in order O00325,kept first occurrence
+order_items,I001916,duplicate_transaction,High,item repeated in order O01081,kept first occurrence
+order_items,I001073,duplicate_transaction,High,item repeated in order O00604,kept first occurrence
+order_items,I000138,duplicate_transaction,High,item repeated in order O00076,kept first occurrence
+order_items,I002293,duplicate_transaction,High,item repeated in order O01294,kept first occurrence
+order_items,I000583,duplicate_transaction,High,item repeated in order O00323,kept first occurrence
+order_items,I001458,duplicate_transaction,High,item repeated in order O00834,kept first occurrence
+order_items,I000411,invalid_quantity,High,quantity=-1,line excluded
+order_items,I000615,invalid_quantity,High,quantity=-1,line excluded
+order_items,I001418,invalid_quantity,High,quantity=-1,line excluded
+order_items,I002418,invalid_quantity,High,quantity=-1,line excluded
+order_items,I003213,invalid_quantity,High,quantity=-1,line excluded
+order_items,I003405,invalid_quantity,High,quantity=-1,line excluded
+order_items,I000088,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+order_items,I000125,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+order_items,I000769,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+order_items,I001207,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+order_items,I001882,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+order_items,I002174,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+order_items,I002818,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+order_items,I003230,orphan_product,High,product P999 has no cost record,line excluded (cannot compute margin)
+orders,O01608,order_without_items,Medium,no valid item lines,revenue set to 0
+orders,O01362,order_without_items,Medium,no valid item lines,revenue set to 0
+orders,O01840,order_without_items,Medium,no valid item lines,revenue set to 0
+orders,O00683,order_without_items,Medium,no valid item lines,revenue set to 0
+orders,O00067,order_without_items,Medium,no valid item lines,revenue set to 0
+orders,O01852,order_without_items,Medium,no valid item lines,revenue set to 0
+refunds,R90001,orphan_refund,High,order O99999 not found,ignored (unmatched refund — investigate)
+refunds,O01608,refund_exceeds_order_value,High,refund 3480.00 > net order value 0.00,capped at net order value
+refunds,O02000,refund_exceeds_order_value,High,refund 18420.00 > net order value 6140.00,capped at net order value
+refunds,O00226,refund_exceeds_order_value,High,refund 8670.00 > net order value 2890.00,capped at net order value
+refunds,O01301,refund_exceeds_order_value,High,refund 12600.00 > net order value 4200.00,capped at net order value
+refunds,O00683,refund_exceeds_order_value,High,refund 2196.00 > net order value 0.00,capped at net order value
+refunds,O01229,refund_exceeds_order_value,High,refund 3135.00 > net order value 1830.00,capped at net order value
+refunds,O01969,refund_exceeds_order_value,High,refund 5195.58 > net order value 5092.50,capped at net order value
+refunds,O01059,refund_exceeds_order_value,High,refund 6555.00 > net order value 3937.50,capped at net order value
+orders,O01783,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O00203,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O00361,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O01192,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O01109,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O01215,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O00078,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O00376,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O00721,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O01102,status_conflict,High,marked Cancelled but delivery record says Delivered,treated as Cancelled; delivery cost counted as leakage
+orders,O01528,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01320,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01824,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00183,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00274,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01728,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00226,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00533,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01372,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01225,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01969,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01205,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00568,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01307,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01997,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01479,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00425,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00396,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01457,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O00350,status_conflict,High,marked Delivered but fully refunded,reclassified as Returned
+orders,O01608,returned_without_refund,Medium,Returned but no refund record,treated as Returned with full refund assumed
+orders,O00683,returned_without_refund,Medium,Returned but no refund record,treated as Returned with full refund assumed

@@ -1,0 +1,7 @@
+campaign_id,campaign_name,discount_pct,start_date,end_date
+CMP00,No Campaign,0,2026-01-01,2026-12-31
+CMP01,New Year Sale,10,2026-01-01,2026-01-15
+CMP02,Summer Clearance,25,2026-04-01,2026-05-15
+CMP03,Festive Blast,30,2026-08-15,2026-09-30
+CMP04,Loyalty Week,15,2026-06-01,2026-06-07
+CMP05,Flash 40,40,2026-10-01,2026-10-05
